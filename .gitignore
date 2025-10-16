@@ -18,6 +18,3 @@ venv/
 .venv/.idea/
 
 __pycache__/
-
-# Jupyter Notebooks
-.ipynb
